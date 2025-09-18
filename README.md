@@ -6,6 +6,6 @@ By using Thonny to write and upload the code, users can easily set up an MQTT co
 The Smart LED can be adapted for various creative applications, such as mood lighting, decorative displays, or notification systems, showcasing the versatility of IoT technologies in everyday life.
 
 -----------------
-Youtube Demo Video: https://www.youtube.com/watch?v=KATxqU3MyME
+Youtube Demo Video: https://www.youtube.com/watch?v=_sxEWuFXaNg
 
 Hackster.io: https://www.hackster.io/melodysit2003/smart-led-control-with-adafruit-io-and-mqtt-3eac2b
