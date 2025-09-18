@@ -24,7 +24,6 @@ spi_bus = busio.SPI(board.GP18, MOSI=board.GP19, MISO=board.GP16)
 
 
 eth = WIZNET5K(spi_bus, cs)
-eth.mac_address = bytearray([0x00, 0x08, 0xDC, 0x22, 0x33, 0x66])
 
 
 light_button_feed = secrets["aio_username"] + "/feeds/light"
